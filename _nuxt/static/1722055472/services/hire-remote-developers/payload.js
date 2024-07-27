@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/services/hire-remote-developers", {data:[{}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/services/value-added-services", {data:[{}],fetch:{},mutations:[]});

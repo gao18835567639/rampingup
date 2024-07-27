@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/services/remote-team-management", {data:[{}],fetch:{},mutations:[]});
